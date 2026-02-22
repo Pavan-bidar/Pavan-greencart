@@ -1,4 +1,3 @@
-
 1. 📌 Project Overview
 
 GreenCart is a command-line based grocery inventory management system developed using:
